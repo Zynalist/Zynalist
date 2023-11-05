@@ -7,5 +7,4 @@ Im still rookie tho, but i will continue developing my skill.
 - CEO And Founder at HerraCloud
 
 ## My Hosting
-([HerraCloud - Affordable Price Hsoting]https://discord.gg/exyr5wTnkZ]))
 ![https://discord.gg/exyr5wTnkZ](https://media.discordapp.net/attachments/1160922536050163797/1170041657450840114/New_Project_Copy_6DC7105.gif?ex=65579935&is=65452435&hm=040786d6316080dece0d4b1d0dde322ee62fb1c00b25c5147b314ecf10a0219f&=)
