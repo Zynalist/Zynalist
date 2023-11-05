@@ -3,7 +3,7 @@ My name is Zynalist, a High School Student from Indonesia, that love coding sinc
 
 - 16 Years old
 - Discord.JS Developer
-- CEO And Founder at HerraCloud
+- CEO And Founder HerraCloud
 
 ## My Hosting
 <a href= 'https://discord.gg/U8gfw6f8fZ' rel= 'nofollow'>
