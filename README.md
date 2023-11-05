@@ -1,5 +1,4 @@
 ## Hi! Nice To Meet You
-![I am GitHub Readme Generator's creator](https://media.discordapp.net/attachments/1160922536050163797/1170041657450840114/New_Project_Copy_6DC7105.gif?ex=65579935&is=65452435&hm=040786d6316080dece0d4b1d0dde322ee62fb1c00b25c5147b314ecf10a0219f&=)
 My name is Zynalist, a High School Student, that love coding since 2020
 Im still rookie tho, but i will continue developing my skill.
 
@@ -9,3 +8,4 @@ Im still rookie tho, but i will continue developing my skill.
 
 ## My Hosting
 https://discord.gg/exyr5wTnkZ
+![HerraCloud](https://media.discordapp.net/attachments/1160922536050163797/1170041657450840114/New_Project_Copy_6DC7105.gif?ex=65579935&is=65452435&hm=040786d6316080dece0d4b1d0dde322ee62fb1c00b25c5147b314ecf10a0219f&=)
