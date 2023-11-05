@@ -1,6 +1,5 @@
 ## Hi! Nice To Meet You
-My name is Zynalist, a High School Student from Indonesia, that love coding since 2020. Have a small Hosting Store, and Been a Customer Service for almost 3 Years
-Im still rookie tho, but i will continue developing my skill.
+My name is Zynalist, a High School Student from Indonesia, that love coding since 2020, Im still rookie tho, but i will continue developing my skill. Have a small Hosting Store, and Take a job as Customer Service for almost 3 Years at 3 different Store.
 
 - 16 Years old
 - Discord.JS Developer
