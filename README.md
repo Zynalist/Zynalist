@@ -11,5 +11,5 @@ https://zyerra.space/
 
 ## My Hosting
 <a href= 'https://discord.gg/U8gfw6f8fZ' rel= 'nofollow'>
-	<img src= 'https://media.discordapp.net/attachments/1160922536050163797/1170041657450840114/New_Project_Copy_6DC7105.gif?ex=65579935&is=65452435&hm=040786d6316080dece0d4b1d0dde322ee62fb1c00b25c5147b314ecf10a0219f&=' width= '500px' height= '80px' style= 'max-width: 100%;'>
+	<img src= 'https://media.discordapp.net/attachments/902752543929696276/1211334880965828628/New_Project_Copy_6DC7106.gif?ex=65edd285&is=65db5d85&hm=4935fafd40a033ce20dbd09d0872f90f08e3605993424b95563772666012c8fc&=' width= '500px' height= '80px' style= 'max-width: 100%;'>
 </a>
