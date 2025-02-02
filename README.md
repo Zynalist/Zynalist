@@ -4,10 +4,11 @@ My name is Zynalist, a High School Student from Indonesia, that love coding sinc
 - 17 Years old
 - Discord.JS Developer
 - Minecraft Server Developer
+- Minecraft Mod Developer
 
 ## My Personal Website:
 https://zyerra.space/ - Currently expired, will be updated soon
 
-## Current Project
-- Advance Discord Ticket Bot
-- Not enought Enchantment Mod
+## Current Project 
+- Advance Discord Ticket Bot - Coming Soon
+- Not enought Enchantment Mod - Coming Soon
