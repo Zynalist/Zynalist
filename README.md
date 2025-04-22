@@ -1,5 +1,6 @@
 ## Hi! Nice To Meet You
-My name is Zynalist, a High School Student from Indonesia, that love coding since 2020, Im still rookie tho but i will continue developing my skill. Take a job as Customer Service for almost 3 Years at 3 different Store.
+My name is Zynalist, a High School Student from Indonesia, that love coding since 2020.
+More info about me check my Personal website below.
 
 - 17 Years old
 - Bot Developer
